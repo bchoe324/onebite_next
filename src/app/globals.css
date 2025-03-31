@@ -6,3 +6,7 @@ body {
   padding: 0px;
   background-color: rgb(250, 250, 250);
 }
+
+section > h3 {
+  @apply mt-[20px] font-bold text-xl;
+}
